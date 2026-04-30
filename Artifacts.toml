@@ -1,0 +1,86 @@
+[[GAP_pkg_cddinterface]]
+arch = "aarch64"
+git-tree-sha1 = "ab2966698e4412f27e06fc0969102d84c216d138"
+os = "macos"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "0706c90a06502c6f376a62550dd3a8c076c1802a97bcabc1d033ba31d79d8fc7"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "aarch64"
+git-tree-sha1 = "2bbae23a1870ecaa9023cff3fe2bb8934d204d32"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "25fbf652d64949c339f22ae48ea74c69f414d94127615e48f4a3673b64708abb"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "aarch64"
+git-tree-sha1 = "a6b04df3e98d9f2d2015c82626748dae62b22edf"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "560aa43f520f1f09005d0fa7e18d17882921198a4451f1bb58fcc59ff20f3bfd"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "aarch64"
+git-tree-sha1 = "61ed34436df40bddbf66c5055ce13b07eb7a804e"
+os = "freebsd"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "5797c2121e28e572bbd856e63d39edfc3989eb1426a2d3f3487051963c7402ae"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "powerpc64le"
+git-tree-sha1 = "29e6f1f6712c5949f3ae3de392f278b6b62b8e1f"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "ecf666ea3c5e2a24e3bb81a99c9583c240c95a080456479574dca98cc2124f06"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "riscv64"
+git-tree-sha1 = "f4e529a348c385c09e79254e0b36b97783619009"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "42dfff00c489ea3c666974a604f4e6c525632c1ca3430e87f832d5b25ae2381d"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "x86_64"
+git-tree-sha1 = "21045e1ef1650291b0e9aa7d83ff27b54260458f"
+os = "macos"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "5b218a8d8395a4b40ea6b4a5e0ad88ce25950ce87cad34c44a274c44c0b1e33f"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "x86_64"
+git-tree-sha1 = "eb81e1ec2f03c91a54d0101debe5d31cc420b76b"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "3f7a969f8bd4ee7c869997b86a1f52d54ce9ea2cdbe7a2f4ff988cfd283174eb"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "x86_64"
+git-tree-sha1 = "f9242de9cd546a9ddbec19729bdf7870343a654c"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "0612e7a6491c5cf0538f8d9aa904a5befb909906333f9d77db0f147a0a2dc60b"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_cddinterface]]
+arch = "x86_64"
+git-tree-sha1 = "adb64aa2ad29b50187221f6efc0e364d00da083d"
+os = "freebsd"
+
+    [[GAP_pkg_cddinterface.download]]
+    sha256 = "87c656e0b564731c462f029ddc47ddc53e31b6e93ed822d42259b880387c8b90"
+    url = "https://github.com/lgoettgens/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202600.30200.0+0/GAP_pkg_cddinterface.v202600.30200.0.x86_64-unknown-freebsd.tar.gz"
